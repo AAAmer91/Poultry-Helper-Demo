@@ -17,13 +17,16 @@ Poultry Helper offers the following key features:
 
 ### UCVFinder (Uniformity, Coefficient of Variation Finder)
 
-UCVFinder allows you to assess and monitor the weight uniformity of your hens with precision. It provides the following insights:
+UCVFinder is a critical tool for poultry farmers and nutritionists to ensure the health and productivity of their hens. This component allows you to assess and monitor the weight uniformity of your hens with precision, providing valuable insights into your flock's performance.
 
-- **Average Weight:** Quickly calculate the average weight of your hens.
-- **Uniformity Percentage:** Measure the uniformity of your flock's weight distribution.
-- **Coefficient of Variation:** Understand the variation in hens' weights within your flock.
+Key Metrics:
+- **Average Weight:** Quickly calculate the average weight of your hens, helping you gauge overall flock health.
+- **Uniformity Percentage:** Measure the uniformity of your flock's weight distribution, which is crucial for consistent growth and productivity.
+- **Coefficient of Variation:** Understand the variation in hens' weights within your flock, enabling you to identify outliers and potential issues.
 
-To understand how UCVFinder works and to see its features in action, please refer to the video demonstrations provided in the "Demos" directory.
+Using UCVFinder is straightforward. Simply input the lowest and highest weights divisible by 20 from your weight records, along with the count of hens in each row and their respective feed composition. UCVFinder will then provide you with these essential metrics, allowing you to make informed decisions about your poultry management strategies.
+
+To better understand how UCVFinder works and witness its features in action, please refer to the video demonstrations provided in the "Demos" directory.
 
 ### Feed Composition Analyzer
 
