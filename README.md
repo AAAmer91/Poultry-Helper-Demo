@@ -1,6 +1,6 @@
 # Poultry Helper by Ahmed A. Amer
 
-![Poultry Helper Logo](https://imgur.com/ETqBVFM)
+![Poultry Helper Logo](https://imgur.com/ETqBVFM.png)
 
 Poultry Helper is a versatile application designed to assist poultry enthusiasts, farmers, and nutritionists in managing various aspects of poultry farming and nutrition. This repository serves as a collection of video demonstrations showcasing the application's capabilities for technical purposes.
 
