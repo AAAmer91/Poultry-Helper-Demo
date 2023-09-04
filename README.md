@@ -8,8 +8,8 @@ Poultry Helper is a versatile application designed to assist poultry enthusiasts
 
 Poultry Helper is developed for two platforms:
 
-- **Android App:** The mobile version of Poultry Helper is written in Java and is designed for use on Android devices.
-- **Windows App:** The desktop version of Poultry Helper is written in C# and is designed to run on Windows-based computers.
+- **Android App:** The mobile version of Poultry Helper is written in Java and is designed for use on Android devices. [Android App Demo Video](https://youtu.be/NoqWW0bsYLk)
+- **Windows App:** The desktop version of Poultry Helper is written in C# and is designed to run on Windows-based computers.[Windows App Demo Video](https://youtu.be/UQn9BFQS4BE)
 
 ## Features
 
