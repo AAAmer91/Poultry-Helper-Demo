@@ -10,7 +10,7 @@ Poultry Helper is developed for two platforms:
 
 - **Android App:** The mobile version of Poultry Helper is written in Java and is designed for use on Android devices. [Android App Demo Video](https://youtu.be/NoqWW0bsYLk)
 - **Windows App:** The desktop version of Poultry Helper is written in C# and is designed to run on Windows-based computers.[Windows App Demo Video](https://youtu.be/UQn9BFQS4BE)
-- **Website:** The website version of Poultry Helper is written in C# and html using Blazor.Net framework and Azure hosting services.
+- **Website:** The website version of Poultry Helper is written in C# and html using Blazor.Net framework and Azure hosting services. [Link to the website](https://poultryhelperblazorserver20231009104149.azurewebsites.net/)
   
 ## Features
 
